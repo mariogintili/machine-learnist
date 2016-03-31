@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mariogintili/machine-learnist/master/assets/sciences-and-arts.jpg)
+![](https://raw.githubusercontent.com/mariogintili/machine-learnist/master/assets/cover-readme.png)
 
 # Machine Learnist
 
