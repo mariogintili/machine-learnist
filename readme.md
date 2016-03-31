@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mariogintili/machine-learnist/master/assets/cover-readme.png)
+<img src="http://i.imgur.com/gU884lW.png" width="320" height="240">
 
 # Machine Learnist
 
